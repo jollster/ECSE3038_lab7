@@ -3,8 +3,7 @@
 #include <HTTPClient.h>
 #include <ArduinoJson.h>
 #include <env.h>
-#define Wifi_ssid "ARRIS-7022"
-#define Wifi_passwd "BPM7EW600664"
+
 
 #define ONBOARD_LED  2
 
